@@ -15,5 +15,5 @@ Hi, I'm Dev Doshi, a graduate student in Computer Science passionate about softw
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=doshidev01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
